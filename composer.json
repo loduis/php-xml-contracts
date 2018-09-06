@@ -1,0 +1,15 @@
+{
+    "name": "loduis/php-xml-contracts",
+    "authors": [
+        {
+            "name": "Loduis Madariaga",
+            "email": "loduis@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "XML\\Contracts": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
