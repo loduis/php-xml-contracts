@@ -8,7 +8,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "XML\\Contracts": "src/"
+            "XML\\Contracts\\": "src/"
         }
     },
     "minimum-stability": "dev"
